@@ -1,0 +1,21 @@
+{
+  "version": "2026-09-20",
+  "documents": [
+    "nexo/ARQUIVO_A_NEXO_Clinical_Nucleo_Global_Tratamentos.pdf",
+    "nexo/Manual_Integral_Prescricao_Pediatrica_Segura.pdf"
+  ],
+  "rules": [
+    "seleção clínica antes do cálculo",
+    "fonte única de verdade",
+    "tripla checagem e checagem reversa",
+    "não automatizar item sem validação individual"
+  ],
+  "runtime": {
+    "consumer": "consulta.js::answer",
+    "scope": "Consulta documental com fontes integrais e distinção entre documento e validação clínica. Sem doses ou novos registros; relatórios históricos preservados.",
+    "hashes": {
+      "ARQUIVO_A_NEXO_Clinical_Nucleo_Global_Tratamentos.pdf": "f57124ceadfcc216b9856b5a465418d359359a495b2cf2578aa826fdfd0ce5e5",
+      "Manual_Integral_Prescricao_Pediatrica_Segura.pdf": "f894819802d52df761e4262b755cfce717999f75d90dcb1b9923fe56c5f80e03"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T03:00:00Z",
+  "canonicalHash": "e7e6839dfb47b6e126a29f2ffa91f9d2e2dbe01e1e213c95040e1c16a9863d78",
+  "bundleHash": "1998f9267331fb333ac8aaa0c2ab0ff02d3cf68a217ef3cce8313cd8d68088ef",
+  "destination": {
+    "projectId": "appgprj_6aa926f0a4f8819192cb1fbe46524523",
+    "title": "Atualizações em Pediatria",
+    "slug": "catalogo-pediatrico",
+    "scope": "pediatric"
+  },
+  "counts": {
+    "diagnoses": 903,
+    "medications": 676,
+    "therapies": 696,
+    "scores": 73,
+    "pedwbTopics": 330,
+    "documents": 9
+  },
+  "policy": {
+    "purpose": "Compartilhamento contextual de diagnósticos, síndromes, medicamentos e linhas terapêuticas entre SitesGPTs clínicos.",
+    "safety": "Conteúdo importado mantém proveniência e não é promovido automaticamente para cálculo ou prescrição. Regimes numéricos exigem indicação, população, apresentação, fonte e tripla checagem clínica, farmacêutica e matemática/reversa no destino.",
+    "deduplication": "Normalização lexical agrupa variantes e terapêuticas pela identidade clínica (nome + diagnósticos), independentemente do módulo exportador; registros originais permanecem em sources e divergências não são fundidas silenciosamente.",
+    "applicability": "Cada destino recebe somente as categorias compatíveis com sua finalidade operacional."
+  }
+}
