@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-10-24T03:00:00Z",
-  "canonicalHash": "b4246d8a133109de9b6cfce22b946b9ce88a8a2f4ff560783e8db9d890cfbb70",
-  "bundleHash": "5067c24ae3b6bb9c835ab36299782654811c77c0e3df8a6617594ad8dcaef6a7",
+  "canonicalHash": "ae9ca891fdfe234354e63a1c229059819a7f7340b09f05c4b339959d8f72e3f8",
+  "bundleHash": "333aefddc30645cc9eb2daa2b23f7df7be07e3dfbcad3461c637b84e0a24e3dd",
   "destination": {
     "projectId": "appgprj_6aa926f0a4f8819192cb1fbe46524523",
     "title": "Atualizações em Pediatria",
